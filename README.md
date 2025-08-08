@@ -49,7 +49,7 @@ extra/
 
 ### 1. Clonar el repositorio
 
-git clone https://github.com/TU-USUARIO/extra-tour.git
+git clone https://github.com/DavidFraga09/extra-tour/
 cd extra-tour
 
 
